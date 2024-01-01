@@ -11,3 +11,8 @@ console.log(s.length);
 console.log(s.substring(0,5).toUpperCase());
 s = "huawei, google, apple, dji, tecent, ibm, intel, amd";
 console.log(s.split(', '));
+
+const greeting = 'Hello';
+const name = 'Mark'
+console.log('%s, %s', greeting, name);
+
