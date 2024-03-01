@@ -1,0 +1,25 @@
+[
+  {
+    "name": [
+      "Mark",
+      "Marc",
+      "Alina Chen"
+    ],
+    "age": [
+      "33"
+    ],
+    "gender": ""
+  },
+  {
+    "name": [
+      "Bob",
+      "Luka"
+    ],
+    "age": [
+      "25"
+    ],
+    "gender": [
+      "female"
+    ]
+  }
+]
