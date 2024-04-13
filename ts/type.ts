@@ -1,3 +1,6 @@
+import { add } from "./math";
+
+
 // 1. Static Typing
 let myNumber: number = 10;
 let myString: string = "Hello, TypeScript!";
@@ -46,12 +49,9 @@ let result: number = identity<number>(5);
 
 // 6. Modules
 // math.ts
-export function add(a: number, b: number): number {
-  return a + b;
-}
+
 
 // main.ts
-import { add } from "./math";
 let sum = add(3, 5);
 
 console.log(myNumber);
